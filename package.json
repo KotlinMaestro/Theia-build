@@ -121,7 +121,7 @@
     "vscode.theme-red",
     "vscode.vscode-theme-seti",
     "vscode.theme-solarized-dark",
-    "vscode.theme-solarized-light",
+    "vscode.theme-defaults",
     "vscode.theme-tomorrow-night-blue",
     "vscode.clojure",
     "vscode.coffeescript",
@@ -146,7 +146,8 @@
     "vscode.razor",
     "vscode.restructuredtext",
     "vscode.shaderlab",
-    "vscode.vb"
+    "vscode.vb",
+    "vscode.scss"
   ]
 
 }
